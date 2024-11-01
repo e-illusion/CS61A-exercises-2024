@@ -6,9 +6,7 @@ Update: 2024--06--20
 
 []()
 
-This is my repository for lab, homeworks and project when going through the course, CS 61A, Spring 2024, from U.C. Berkeley.
-Since the course page change to summar 2024. Some of halfway learners have to stop learning for unable to access to the spring 2024 website.
-Hope this repository will help you. 
+我的CS61A学习记录，包含全部lab，homework和project的代码，感谢原仓库https://github.com/leejianping/cs61A-提供不含答案的代码文件
 
 **We welcome contributions to this repository.**
 
