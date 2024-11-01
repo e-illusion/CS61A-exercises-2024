@@ -6,7 +6,7 @@ Update: 2024--06--20
 
 []()
 
-我的CS61A学习记录，包含全部lab，homework和project的代码，感谢原仓库https://github.com/leejianping/cs61A-提供不含答案的代码文件
+我的CS61A学习记录，包含全部lab，homework和project的代码，感谢原仓库https://github.com/leejianping/cs61A-Spring2024 提供不含答案的代码文件
 
 **We welcome contributions to this repository.**
 
